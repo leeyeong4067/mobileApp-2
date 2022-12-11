@@ -12,16 +12,19 @@
 <br>
 
 4. 안드로이드 플랫폼 패키지 추가 설치
+
 * Tools
 	Android SDK Tools
 	Android SDK Platfor-tools
 	Android SDK Build-tools
 <br>
+
 * Android R(Api 29, R preview)
 	SDK Platform Android R Preview
 	Google Play Intel x86 Atom_64_System Image
 	Google APIs intel x86 Atom_64_System Image
 <br>
+
 * Extra
 	Android Support Repository
 	Google Repository
